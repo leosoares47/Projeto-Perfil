@@ -34,7 +34,8 @@ body * {
 }
 
 #container {
-  width: 360px; /* Largura */
+  width: 100%; /* Largura */
+  max-width: 588px;
   margin: 56px auto 0px;
 }
 
